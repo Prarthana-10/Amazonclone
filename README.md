@@ -1,0 +1,1 @@
+This is a Amazon clone wesbite , which features the amazon website with variety of product categories and with various functionality of the amazon.com site, I look forward to make futher future enhancements in the same . Thankyou# Amazonclone
